@@ -1,0 +1,14 @@
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ProdutosEstoque\obj\Debug\net8.0\ProdutosEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ProdutosEstoque\obj\Debug\net8.0\ProdutosEstoque.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ProdutosEstoque\obj\Debug\net8.0\ProdutosEstoque.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ProdutosEstoque\obj\Debug\net8.0\ProdutosEstoque.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ProdutosEstoque\bin\Debug\net8.0\ProdutosEstoque.exe
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ProdutosEstoque\bin\Debug\net8.0\ProdutosEstoque.deps.json
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ProdutosEstoque\bin\Debug\net8.0\ProdutosEstoque.runtimeconfig.json
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ProdutosEstoque\bin\Debug\net8.0\ProdutosEstoque.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ProdutosEstoque\bin\Debug\net8.0\ProdutosEstoque.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ProdutosEstoque\obj\Debug\net8.0\ProdutosEstoque.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ProdutosEstoque\obj\Debug\net8.0\refint\ProdutosEstoque.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ProdutosEstoque\obj\Debug\net8.0\ProdutosEstoque.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ProdutosEstoque\obj\Debug\net8.0\ProdutosEstoque.genruntimeconfig.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ProdutosEstoque\obj\Debug\net8.0\ref\ProdutosEstoque.dll
