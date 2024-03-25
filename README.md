@@ -1,2 +1,2 @@
 # ProdutosEstoque
-um simples código aonde é possível adicionar e visualizar os produtos adicionados à classe **Produtos**
+Neste programa há uma classe chamada **Produtos** e nela há uma lista aonde será armazenados produtos por meio da função **AddProduto()**. Também é possível visualizar os produtos adicionados por meio da função **ExibirProdutos()**.
